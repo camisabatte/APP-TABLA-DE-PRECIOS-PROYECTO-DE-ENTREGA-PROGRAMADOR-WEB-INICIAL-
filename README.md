@@ -1,8 +1,11 @@
+                                                            
+                                                            
                                                             Proyecto de Entrega Final: Programador Web Inicial 
                                                                          UTN Regional Buenos Aires 
                                                                                 2021-2022
 
 Estudiante: Sabatté Camila Belén 
+
 Profesor a cargo: Pastor Bernal
 
 Este proyecto tiene como fin presentar ante el tutor-profesor la aplicación de diversas herramientas aprendidas y estudiadas durante la cursada, para el desarrollo de un sitio web simple 
@@ -17,14 +20,22 @@ autónoma siendo completamente ajena hasta hace unos pocos meses al mundo de la 
 HERRAMIENTAS UTILIZADAS PARA CREAR EL PROYECTO
 
 BACKEND Y DESARROLLO
+
 • NODEJS
+
 • NODEMON 
+
 • MYSQL
+
 • EXPRESS
+
 • JAVASCRIPT
+
 • GITHUB
 
-FRONTEND
-• MOTOR DE PLANTILLAS EJS
-• BOOTSTRAP 5 
 
+FRONTEND
+
+• MOTOR DE PLANTILLAS EJS
+
+• BOOTSTRAP 5 
